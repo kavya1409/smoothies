@@ -1,0 +1,27 @@
+img {
+    /* float: left; */
+    
+    height: 700px;
+    width: 100%;
+  }
+  .centered {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-family:cursive;
+  }
+#a{
+   margin-top: 10px;
+   text-align: center; 
+  font-family: cursive;
+  top:40%;
+  color: whitesmoke;
+  font-size:x-large;
+  text-shadow: 1px 1px 5px gray;
+}
+footer{
+  background-color: black;
+  color: gray;
+}

@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: orangered;
+    font-family: cursive;
+}
+p{
+    text-align:center;
+    font-family: cursive;
+    color: grey;
+    font-size: x-large;
+}
+img{
+    margin-left: 80px;
+}
+#i{
+    width:1200px
+}
