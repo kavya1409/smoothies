@@ -1,7 +1,10 @@
-img{
-    float: left;
-    margin-left: 20px;
-    margin-top: 20px;
+#c{
+    border: 10px solid skyblue;
+    border-radius: 35%;
+    margin: 5px;
+    height: 15%;
+    margin-right: 25px;
+    
 }
 
 p{
